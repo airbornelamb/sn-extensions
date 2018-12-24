@@ -2,7 +2,7 @@
   "identifier": "org.talmao.autocomplete-tags",
   "name": "Autocomplete Tags",
   "content_type": "SN|Component",
-  "area": "tags-list",
+  "area": "note-tags",
   "version": "1.2.1",
   "description": "Work more efficiently by quickly selecting from a live list of tags while you type. Supports keyboard shortcuts and folders.",
   "url": "https://snextensions.netlify.com/components/autocomplete-tags",
