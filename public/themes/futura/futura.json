@@ -1,0 +1,11 @@
+{
+  "identifier": "org.talmao.futura",
+  "name": "Futura Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "version": "1.2.1",
+  "description": "Calm and relaxed. Take some time off.",
+  "url": "https://snextensions.netlify.com/themes/futura",
+  "download_url": "https://github.com/sn-extensions/futura-theme/archive/1.2.1.zip",
+  "latest_url": "https://snextensions.netlify.com/themes/futura/futura.json",
+}

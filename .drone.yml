@@ -1,0 +1,12 @@
+kind: pipeline
+name: default
+
+steps:
+- name: netlify
+  image: airbornelamb/drone-netlify
+  settings:
+    netlify_auth_token:
+      from_secret: snextensions_token
+    netlify_site_id: a95d6a8b-a51d-4780-b055-cf386592cfd9
+    dir: /drone/src/public
+    production: yes

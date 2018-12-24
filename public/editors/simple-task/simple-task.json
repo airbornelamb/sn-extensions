@@ -1,0 +1,11 @@
+{
+  "identifier": "org.talmao.simple-task",
+  "name": "Simple Task Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.2.4",
+  "description": "A great way to manage short-term and long-term to-do's. You can mark tasks as completed, change their order, and edit the text naturally in place.",
+  "url": "https://snextensions.netlify.com/editors/simple-task",
+  "download_url": "https://github.com/sn-extensions/simple-task-editor/archive/1.2.4.zip",
+  "latest_url": "https://snextensions.netlify.com/editors/simple-task/simple-task.json",
+}

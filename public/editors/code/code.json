@@ -1,0 +1,11 @@
+{
+  "identifier": "org.talmao.code",
+  "name": "Code Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.2.3",
+  "description": "Syntax highlighting and convenient keyboard shortcuts for over 120 programming languages. Ideal for code snippets and procedures.",
+  "url": "https://snextensions.netlify.com/editors/code",
+  "download_url": "https://github.com/sn-extensions/code-editor/archive/1.2.3.zip",
+  "latest_url": "https://snextensions.netlify.com/editors/code/code.json",
+}
