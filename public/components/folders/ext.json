@@ -7,5 +7,5 @@
   "description": "Create nested folders from your tags with easy drag and drop. Folders also supports Smart Tags, which allow you to build custom filters for viewing your notes.",
   "url": "https://snextensions.netlify.com/components/folders",
   "download_url": "https://github.com/sn-extensions/folders-component/archive/1.2.2.zip",
-  "latest_url": "https://snextensions.netlify.com/components/folders/folders.json",
+  "latest_url": "https://snextensions.netlify.com/components/folders/ext.json"
 }

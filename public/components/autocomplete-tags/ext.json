@@ -7,5 +7,5 @@
   "description": "Work more efficiently by quickly selecting from a live list of tags while you type. Supports keyboard shortcuts and folders.",
   "url": "https://snextensions.netlify.com/components/autocomplete-tags",
   "download_url": "https://github.com/sn-extensions/autocomplete-tags/archive/1.2.1.zip",
-  "latest_url": "https://snextensions.netlify.com/components/autocomplete-tags/autocomplete-tags.json",
+  "latest_url": "https://snextensions.netlify.com/components/autocomplete-tags/ext.json"
 }
