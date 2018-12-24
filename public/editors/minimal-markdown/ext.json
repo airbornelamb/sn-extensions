@@ -1,0 +1,9 @@
+{
+  "identifier": "org.talmao.minimal-markdown",
+  "name": "Minimal Markdown Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.2.7",
+  "description": "A minimal Markdown editor with inline style support.",
+  "url": "http://localhost:8001",
+}
