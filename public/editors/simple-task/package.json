@@ -36,7 +36,7 @@
     "eslint-plugin-react": "latest",
     "extract-text-webpack-plugin": "^3.0.2",
     "husky": "^0.12.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "open-browser-webpack-plugin": "0.0.3",
     "react": "15.x",
     "react-dom": "15.x",
